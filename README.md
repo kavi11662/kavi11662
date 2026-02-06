@@ -38,11 +38,20 @@
 
 
 ### 🚀 Featured Projects
+- 📚 **Library Management System (Spring Core)**  
+  👉 [GitHub Repo](https://github.com/kavi11662/Spring-core-LibraryManagement)  
+  - Built using Java and Spring Core concepts
+  - Implements CRUD operations for managing books
+  - Demonstrates Dependency Injection, layered architecture, and clean code practices
+
 - 🔍 **Real-Time Human Detection using YOLOv8**  
-  👉 [GitHub Repo](https://github.com/kavi11662/Human-Detection-using-YOLOv8n)
+  👉 [GitHub Repo](https://github.com/kavi11662/Human-Detection-using-YOLOv8n)  
+  - Real-time object detection using YOLOv8 and OpenCV
+  - Optimized inference pipeline for live video streams
 
 - 🌐 **Personal Portfolio Website**  
   👉 [Live Site](https://kavi11662.github.io/My-Portfolio/)
+
 
 ---
 
