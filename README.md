@@ -11,6 +11,14 @@
 
 ---
 
+
+### 📊 LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/Kavibharathi-s?theme=dark&font=Baloo)
+
+
+---
+
+
 ### 🔗 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kavibharathi-s-97ba88291/" target="_blank">LinkedIn</a> |
@@ -28,10 +36,6 @@
 
 ---
 
-### 📊 LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/Kavibharathi-s?theme=dark&font=Baloo)
-
----
 
 ### 🚀 Featured Projects
 - 🔍 **Real-Time Human Detection using YOLOv8**  
